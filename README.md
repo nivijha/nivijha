@@ -14,7 +14,7 @@ I’m a **Full Stack Developer** passionate about building **scalable, clean, an
 I enjoy turning ideas into real-world products and continuously leveling up my technical skills.
 
 - 🖥️ Portfolio: **[nivi-portfolio-lovat.vercel.app](http://nivi-portfolio-lovat.vercel.app/)**
-- ✉️ Contact: **nivijha2004@gmail.com**
+- ✉️ Contact: **nivijha04@gmail.com**
 - 🧠 Currently learning **System Design & Cloud Architecture**
 - 👥 Open to collaborating on **thoughtful & impactful projects**
 
