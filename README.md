@@ -73,15 +73,15 @@ I enjoy turning ideas into real-world products and continuously leveling up my t
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.github.com/nivijha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/>
+<p align="left">
+  <a href="https://github.com/nivijha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/nivi-jha" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINK/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
@@ -94,16 +94,6 @@ I enjoy turning ideas into real-world products and continuously leveling up my t
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=nivijha&bg_color=f8fafc&color=38bdf8&line=6366f1&point=818cf8&area=true&hide_border=true" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivijha&hide_border=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nivijha&layout=compact&bg_color=020617&title_color=6366f1&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nivijha&layout=compact&bg_color=f8fafc&title_color=6366f1&text_color=020617&icon_color=38bdf8&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivijha&layout=compact&hide_border=true" />
   </picture>
 </p>
 
