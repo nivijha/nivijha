@@ -13,7 +13,7 @@ Full Stack Developer · Problem Solver · Cloud & System Design Enthusiast
 I’m a **Full Stack Developer** passionate about building **scalable, clean, and user-centric web applications**.  
 I enjoy turning ideas into real-world products and continuously leveling up my technical skills.
 
-- 🖥️ Portfolio: **([http://nivi-portfolio-lovat.vercel.app/](https://nivi-portfolio-lovat.vercel.app/))**
+- 🖥️ Portfolio: **[nivijha-portfolio](https://nivijha-portfolio.vercel.app/)**
 - ✉️ Contact: **nivijha04@gmail.com**
 - 🧠 Currently learning **System Design & Cloud Architecture**
 - 👥 Open to collaborating on **thoughtful & impactful projects**
