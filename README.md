@@ -3,7 +3,7 @@ Hi 👋, I'm Nivi Jha
 </h1>
 
 <h3 align="center">
-Full Stack Developer · Problem Solver · Cloud & System Design Enthusiast
+Full Stack Developer · Problem Solver 
 </h3>
 
 ---
@@ -63,7 +63,6 @@ I enjoy turning ideas into real-world products and continuously leveling up my t
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/>
