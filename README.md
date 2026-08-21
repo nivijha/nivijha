@@ -76,7 +76,7 @@ I enjoy turning ideas into real-world products and continuously leveling up my t
   <a href="https://github.com/nivijha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK/">
+  <a href="https://www.linkedin.com/in/nivi-jha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
