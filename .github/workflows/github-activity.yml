@@ -1,47 +1,44 @@
-name: Update GitHub Activity Chart
+name: Update GitHub Activity Graph
 
 on:
   schedule:
-    # Run every 6 hours
+    # Update every 6 hours
     - cron: "17 */6 * * *"
 
+  # Allows you to manually run it from Actions
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-chart:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate activity chart
-        uses: dturovskiy/deus-commit-chart@v1
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: nivijha
-          token: ${{ github.token }}
-          default-days: "365"
-          ranges: "365"
-          theme: github-compact
-          layout: spacious
-          width: "1200"
-          height: "400"
-          hide-border: true
-          output-dir: activity-dist
 
-      - name: Commit updated chart
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Tokyo Night style
+          options: >-
+            theme=tokyo-night
+            &hide_border=true
+            &area=true
+            &radius=12
+            &height=350
+            &days=31
+            &grid=true
 
-          git add activity-dist/
+          output_path: dist/activity-graph.svg
 
-          if git diff --cached --quiet; then
-            echo "No changes detected"
-          else
-            git commit -m "chore: update GitHub activity"
-            git push
-          fi
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish generated graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
