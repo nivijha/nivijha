@@ -152,23 +152,27 @@ I primarily solve DSA problems in **Java** and use problem solving to strengthen
 
 ---
 
-## 📈 GitHub Activity
+📈 GitHub Activity</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=nivijha&bg_color=020617&color=38bdf8&line=6366f1&point=818cf8&area=true&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=nivijha&bg_color=f8fafc&color=2563eb&line=6366f1&point=4f46e5&area=true&hide_border=true"
-    />
+  <img
+    src="./activity-dist/activity-365d.svg"
+    alt="Nivi Jha GitHub Activity"
+    width="100%"
+  />
+</p>
+
+--- 
+
+## ♨️ DSA Analytics
+
+<p align="center">
+  <a href="https://leetcode.com/u/vinj21/">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=nivijha&hide_border=true"
-      alt="Nivi's GitHub activity graph"
+      src="https://leetcard.jacoblin.cool/vinj21?theme=dark&font=Roboto&ext=heatmap"
+      alt="Nivi's LeetCode Statistics"
     />
-  </picture>
+  </a>
 </p>
 
 ---
@@ -177,7 +181,7 @@ I primarily solve DSA problems in **Java** and use problem solving to strengthen
 
 I'm interested in opportunities and collaborations around:
 
-**Backend Engineering · Full-Stack Development · Cloud · AI Applications**
+**Backend Engineering · Full-Stack Development · AI Applications**
 
 <p align="center">
   <a href="https://github.com/nivijha">
