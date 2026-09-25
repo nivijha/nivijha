@@ -12,19 +12,32 @@
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 
-I'm a **B.Tech CSE student at Jaypee University of Information Technology (JUIT)** focused on building reliable **backend and full-stack applications**.
+<p align="left">
+  <img
+    align="right"
+    src="https://nivijha-portfolio.vercel.app/images/about.png"
+    alt="Nivi Jha"
+    width="220"
+  />
+  I'm a <strong>B.Tech CSE student at Jaypee University of Information Technology (JUIT)</strong> focused on building reliable <strong>backend and full-stack applications</strong>.
+</p>
 
-I enjoy working on systems where engineering decisions matter — from **API design, caching and authentication** to **testing, CI/CD, cloud services and AI integrations**.
+<p>
+I enjoy working on systems where engineering decisions matter — from <strong>API design, caching and authentication</strong> to <strong>testing, CI/CD, cloud services and AI integrations</strong>.
+</p>
 
-* 🔭 Currently building and improving **backend-focused applications**
-* 💻 Strongest stack: **JavaScript / Node.js / Express / MongoDB**
-* 🧠 Solving **DSA primarily in Java** — 300+ LeetCode problems
-* ☁️ Learning **System Design & Cloud Architecture**
-* 🤖 Exploring practical **AI/ML integrations**
-* 🌱 Open to **SDE, Backend and Full-Stack opportunities**
+<ul>
+  <li>🔭 Currently building and improving <strong>backend-focused applications</strong></li>
+  <li>💻 Strongest stack: <strong>JavaScript / Node.js / Express / MongoDB</strong></li>
+  <li>🧠 Solving <strong>DSA primarily in Java</strong> — 300+ LeetCode problems</li>
+  <li>☁️ Learning <strong>System Design & Cloud Architecture</strong></li>
+  <li>🤖 Exploring practical <strong>AI/ML integrations</strong></li>
+  <li>🌱 Open to <strong>SDE, Backend and Full-Stack opportunities</strong></li>
+</ul>
+
+<br clear="right"/>
 
 ---
 
