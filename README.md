@@ -165,16 +165,17 @@ I primarily solve DSA problems in **Java** and use problem solving to strengthen
 
 ---
 
-📈 GitHub Activity</h2>
+## 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="./activity-dist/activity-365d.svg"
-    alt="Nivi Jha GitHub Activity"
+    src="https://raw.githubusercontent.com/nivijha/nivijha/output/activity-graph.svg"
+    alt="Nivi Jha GitHub Activity Graph"
     width="100%"
   />
 </p>
 
+---
 --- 
 
 ## ♨️ DSA Analytics
