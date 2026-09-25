@@ -25,7 +25,11 @@ jobs:
           token: ${{ github.token }}
           default-days: "365"
           ranges: "365"
+          theme: github-compact
           layout: spacious
+          width: "1200"
+          height: "400"
+          hide-border: true
           output-dir: activity-dist
 
       - name: Commit updated chart
